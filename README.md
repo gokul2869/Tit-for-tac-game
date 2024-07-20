@@ -4,7 +4,9 @@ Welcome to my Tic Tac Toe game project! This is a simple and fun implementation 
 #Features 🌟
 
 **Responsive Design:** The game looks great on any device, whether it's a phone, tablet, or desktop.
+
 **Smooth Animations:** Enjoy a visually pleasing experience with smooth hover and click animations.
+
 **Easy Restart:** Restart the game anytime with a single click.
 
 **Demo 🖥️**
