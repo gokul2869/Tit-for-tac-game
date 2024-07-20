@@ -27,9 +27,8 @@ Clone the repo
 sh
 Copy code
           git clone https://github.com/your-username/tic-tac-toe.git
-Open the index.html file
-Navigate to the project directory and open the index.html file in your browser.
-Usage 📋
+          Open the index.html file
+          Navigate to the project directory and open the index.html file in your browser. 
 
 Feel free to explore and modify the code. Here are the main files in the project:
 
