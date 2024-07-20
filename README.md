@@ -1,7 +1,7 @@
 #Tic Tac Toe Game 🎮✨
 Welcome to my Tic Tac Toe game project! This is a simple and fun implementation of the classic Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
-#Features 🌟
+**Features 🌟**
 
 **Responsive Design:** The game looks great on any device, whether it's a phone, tablet, or desktop.
 
