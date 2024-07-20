@@ -9,16 +9,24 @@ Welcome to my Tic Tac Toe game project! This is a simple and fun implementation 
 
 **Easy Restart:** Restart the game anytime with a single click.
 
+
 **Demo 🖥️**
 Check out the live demo of the game: [Your GitHub Pages or live demo link]
 
+
 **How to Play 🎲**
 Open the game in your browser.
+
 Click on any cell in the grid to place your mark (X or O).
+
 Alternate turns between players.
+
 The first player to get three marks in a row (horizontally, vertically, or diagonally) wins!
+
 Click the "Restart Game" button to play again.
-Getting Started 🚀
+
+
+**Getting Started 🚀**
 To get a local copy of the project up and running, follow these simple steps:
 
 **Prerequisites**
