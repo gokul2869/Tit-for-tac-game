@@ -11,27 +11,27 @@ Welcome to my Tic Tac Toe game project! This is a simple and fun implementation 
 
 
 **Demo 🖥️**
-Check out the live demo of the game: [Your GitHub Pages or live demo link]
+-- Check out the live demo of the game: [Your GitHub Pages or live demo link]
 
 
 **How to Play 🎲**
-Open the game in your browser.
+- Open the game in your browser.
 
-Click on any cell in the grid to place your mark (X or O).
+- Click on any cell in the grid to place your mark (X or O).
 
-Alternate turns between players.
+- Alternate turns between players.
 
-The first player to get three marks in a row (horizontally, vertically, or diagonally) wins!
+- The first player to get three marks in a row (horizontally, vertically, or diagonally) wins!
 
-Click the "Restart Game" button to play again.
+- Click the "Restart Game" button to play again.
 
 
 **Getting Started 🚀**
 To get a local copy of the project up and running, follow these simple steps:
 
 **Prerequisites**
-A modern web browser
-A code editor (e.g., VSCode)
+- A modern web browser
+- A code editor (e.g., VSCode)
 
 **Installation**
 Clone the repo
